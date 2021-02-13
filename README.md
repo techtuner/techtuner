@@ -10,6 +10,8 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love to play Video Games
 
+<br>
+<br>
 ## Connect with me
 
 [<img align="left" alt="TechTuner2 | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
@@ -17,6 +19,8 @@
 [<img align="left" alt="techtuner284 | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="techtuner | Github" width="22px" src="https://img.icons8.com/nolan/64/github.png" />][github]
 
+<br>
+<br>
 ## Tools and Language
 
 [instagram]: https://instagram.com/techtuner284
