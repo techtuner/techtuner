@@ -1,7 +1,5 @@
 ### Hi there!Im Santhosh 👋
 
-Here are some ideas to get you started:
-
 ## I'm a Mechanical Engineering Student
 
 - 🔭 I’m currently working on ...Portfolio Website
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 ## Connect with me
 
 [<img align="left" alt="TechTuner2 | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/santhoshpai)
-[<img align="left" alt="techtuner284 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Santhosh | LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="techtuner284 | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="techtuner | Github" width="22px" src="https://img.icons8.com/nolan/64/github.png" />][github]
+
+## Tools and Language
 
 [instagram]: https://instagram.com/techtuner284
 [twitter]: https://twitter.com/TechTuner2
+[linkedin]: https://linkedin.com/santhoshpai
+[github]: https://github.com/techtuner
