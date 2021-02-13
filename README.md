@@ -19,6 +19,8 @@
 
 ## Tools and Language
 
+[<img align="left" alt="HTML5" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png" />]
+
 [instagram]: https://instagram.com/techtuner284
 [twitter]: https://twitter.com/TechTuner2
 [linkedin]: https://linkedin.com/santhoshpai
