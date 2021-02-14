@@ -1,6 +1,6 @@
-### Hi there!Im Santhosh 👋
+### Hi there!Im Santhosh 👋            ![](coding-freak.gif)
 
-![align="right"](coding-freak.gif)
+
 
 ## I'm a Mechanical Engineering Student
 
@@ -27,12 +27,11 @@
 <img align="left" alt="Visual Studio Code" width="22px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Linux" width="22px" src="https://img.icons8.com/color/48/000000/linux.png" />
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="Photoshop" width="22px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Photoshop" width="22px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
 
 [instagram]: https://instagram.com/techtuner284
 [twitter]: https://twitter.com/TechTuner2
 [linkedin]: https://linkedin.com/santhoshpai
 [github]: https://github.com/techtuner
 
-<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 
