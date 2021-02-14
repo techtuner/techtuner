@@ -22,6 +22,8 @@
 <br><br>
 
 ## Tools and Language
+(https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&show_icons=true&theme=radical)
+
 
 <img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/48/000000/css3.png" />
