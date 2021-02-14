@@ -1,6 +1,6 @@
 ### Hi there!Im Santhosh 👋
 
-<img src="./coding-freak.gif" align="right" height="75px" width="75px">
+<img src="./coding-freak.gif" align="right" height="450px" width="450px">
 
 ## I'm a Mechanical Engineering Student
 
