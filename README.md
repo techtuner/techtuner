@@ -1,10 +1,6 @@
-### Hi there!Im Santhosh 👋            
-
+### Hi there!Im Santhosh 👋
 
 <img src="./coding-freak.gif" align="right">
-<br><br>
-
-
 
 ## I'm a Mechanical Engineering Student
 
@@ -15,7 +11,6 @@
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love to play Video Games
-  <img align="right" alt="HTML5" width="22px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
 ## Connect with me
 
