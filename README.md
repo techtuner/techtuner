@@ -1,6 +1,6 @@
 ### Hi there!Im Santhosh 👋
 
-<img src="./coding-freak.gif" align="right">
+<img src="./coding-freak.gif" align="right" height="75px" width="75px">
 
 ## I'm a Mechanical Engineering Student
 
@@ -32,5 +32,6 @@
 [twitter]: https://twitter.com/TechTuner2
 [linkedin]: https://linkedin.com/santhoshpai
 [github]: https://github.com/techtuner
+
 
 
