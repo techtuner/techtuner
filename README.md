@@ -1,4 +1,6 @@
-### Hi there!Im Santhosh 👋            ![](coding-freak.gif)
+### Hi there!Im Santhosh 👋            
+
+<img src="./coding-freak.gif" align="left" height="48" width="48" >
 
 
 
