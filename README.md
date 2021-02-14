@@ -30,6 +30,8 @@
 <img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="Photoshop" width="25px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
 
+<br><br>
+
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtuner)](https://github.com/anuraghazra/github-readme-stats)
 
