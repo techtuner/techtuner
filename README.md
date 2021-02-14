@@ -33,7 +33,7 @@
 <br><br>
 
 ## Github Stats
-![techtuner's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtuner)](https://github.com/anuraghazra/github-readme-stats)
+![techtuner's stats](https://github-readme-stats.vercel.app/api?username=techtuner&count_private=true&show_icons=true&theme=radical)
 
 <br>
 <br>
