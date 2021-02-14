@@ -19,6 +19,9 @@
 [<img align="left" alt="techtuner284 | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="techtuner | Github" width="22px" src="https://img.icons8.com/nolan/64/github.png" />][github]
 
+<br><br>
+
+
 ## Tools and Language
 
 <img align="left" alt="HTML5" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png" />
