@@ -44,6 +44,6 @@
 <img height="180em"  align="left"src="https://github-readme-stats.vercel.app/api?username=git-akihakune&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-akihakune&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
 <br>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark  ">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark">
 </p>
 
