@@ -33,6 +33,7 @@
 <a href="mailto:techtuner284@gmail.com"><img alt="mail" width="70" src="./assets/gmail.svg"></a>
 <a href="https://www.linkedin.com/in/santhosh-pai/"><img alt="linkedin" width="70" src="./assets/linkedin.svg"></a>
 <a href="https://www.twitter.com/techtuner2/"><img alt="twitter" width="70" src="./assets/twitter.svg"></a>
+<a href="https://www.instagram.com/clashersanty"><img alt="instagram" width="70" src="./assets/instagram.svg"></a>
 </p>
 
 <br>
