@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  align="right" alt="Coding" width="400">
 
 - **Final Year Mecahnical Enginnering Student from NMAM Institute of Technology. Trying to get into CyberSecurity**
-- Love to learn things and try to implement it in projects. Currently learning [JavaScript](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+- Love to learn things and try to implement it in projects. Currently learning [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - **Hobbies :**
     1. **Photo Manipulation** : Love to combine two or more images using [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other)
