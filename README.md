@@ -46,6 +46,6 @@
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
 <br>
 
-<img  src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark">
+<img src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark">
 </p>
 
