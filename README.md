@@ -1,7 +1,7 @@
 <img src="assets/Github-banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 ## **About me**
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  align="right" alt="Coding" width="400">
+<a href="https://app.daily.dev/techtuner"><img align="right" src="https://api.daily.dev/devcards/1e9c053e64b34800bbcd4600da9aa38b.png?r=fh7" width="400" alt="Santhosh Pai H's Dev Card"/></a>
 
 - **Final Year Mecahnical Enginnering Student from NMAM Institute of Technology. Trying to get into CyberSecurity**
 - Love to learn things and try to implement it in projects. Currently learning [Go](https://www.udemy.com/course/learn-how-to-code/)
