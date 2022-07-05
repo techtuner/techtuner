@@ -4,7 +4,7 @@
 <a href="https://app.daily.dev/techtuner"><img align="right" src="https://github.com/techtuner/techtuner/blob/main/devcard.svg" width="400" alt="Santhosh Pai H's Dev Card"/></a>
 
 - **Final Year Mecahnical Enginnering Student from NMAM Institute of Technology. Trying to get into CyberSecurity**
-- Love to learn things and try to implement it in projects. Currently learning [Web Development]((https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+- Love to learn things and try to implement it in projects. Currently learning [Web Development](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 
 - **Hobbies :**
     1. **Photo Manipulation** : Love to combine two or more images using [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other)
