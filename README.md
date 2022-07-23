@@ -47,5 +47,6 @@
 <br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark">
+<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
 </p>
 
