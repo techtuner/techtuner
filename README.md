@@ -37,6 +37,7 @@
 </p>
 
 <br>
+![Metrics Card](./github-metrics.svg)
 
 ## **Github Stats**
 
