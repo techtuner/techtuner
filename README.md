@@ -3,7 +3,7 @@
 ## **About me**
 <a href="https://app.daily.dev/techtuner"><img align="right" src="https://github.com/techtuner/techtuner/blob/main/devcard.svg" width="400" alt="Santhosh Pai H's Dev Card"/></a>
 
-- **Mecahnical Enginnering Graduate from NMAM Institute of Technology. Trying to get into CyberSecurity**
+- Mechanical Engineering Graduate, Currently working as an Security Analyst Intern
 - Love to learn things and try to implement it in projects. Currently learning [JavaScript](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
 - **Hobbies :**
