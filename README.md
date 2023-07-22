@@ -29,11 +29,11 @@
 </p>
 
 <br>
+
 ## **Github Stats**
 
 ![Metrics Card](./github-metrics.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
 
 <p> 
 <p style="display: flex; justify-content:space-between; align-items:center;">
@@ -41,3 +41,5 @@
 <img height="250cm" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
 <br>
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
