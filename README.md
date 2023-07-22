@@ -1,15 +1,9 @@
 <img src="assets/Github-banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
-## **About me**
-<a href="https://app.daily.dev/techtuner"><img align="right" src="https://github.com/techtuner/techtuner/blob/main/devcard.svg" width="400" alt="Santhosh Pai H's Dev Card"/></a>
+## **About Me**
 
-- Mechanical Engineering Graduate, Currently working as an Security Analyst Intern
-- Love to learn things and try to implement it in projects. Currently learning and working on a port scanner in Python
+- Mechanical Engineering Graduate, currently working as Associate Software Engineer
 
-- **Hobbies :**
-    1. **Photo Manipulation** : Love to combine two or more images using [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other)
-    2. **Listening to Music** : I'm more of a Hip-hop fan, usually listen to Eminem,Snoop Dogg and Dr.Dre. Pop songs are also fine! 😅
-<br>
 <br>
 
 ## **Technology and Tools**
@@ -32,23 +26,18 @@
 
 <a href="mailto:techtuner284@gmail.com"><img alt="mail" width="70" src="./assets/gmail.svg"></a>
 <a href="https://www.linkedin.com/in/santhosh-pai/"><img alt="linkedin" width="70" src="./assets/linkedin.svg"></a>
-<a href="https://www.twitter.com/techtuner2/"><img alt="twitter" width="70" src="./assets/twitter.svg"></a>
-<a href="https://www.instagram.com/clashersanty"><img alt="instagram" width="70" src="./assets/instagram.svg"></a>
 </p>
 
 <br>
+## **Github Stats**
 
 ![Metrics Card](./github-metrics.svg)
 
-## **Github Stats**
+<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
 
 <p> 
 <p style="display: flex; justify-content:space-between; align-items:center;">
-<img height="180em"  align="left"src="https://github-readme-stats.vercel.app/api?username=techtuner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
+<img height="250cm"  width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=techtuner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="250cm" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
 <br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=techtuner&hide_border=true&theme=react-dark">
-<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
 </p>
-
