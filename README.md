@@ -2,14 +2,13 @@
 
 ## **About Me**
 
-- Mechanical Engineering Graduate, currently working as Associate Software Engineer
-
+I am a Mechanical Engineering Graduate working as an Associate Software Engineer in Vulnerability Management. I love learning new and updated technologies to increase my knowledge and get better as days pass.
+I currently hold the CEH certification and hope to collect more such certifications in the future
 <br>
 
 ## **Technology and Tools**
 <p>
  <a href="https://linux.org/"><img alt="linux" width="70" src="./assets/linux.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="markdown" width="70" src="./assets/markdown.svg"></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" width="70" src="./assets/html.svg"></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" width="70" src="./assets/css.svg"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" width="70" src="./assets/javascript.svg"></a>
@@ -18,7 +17,7 @@
   <a href="https://ubuntu.com/"><img alt="Ubuntu" width="70" src="./assets/ubuntu.svg"></a>
   <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"><img alt="Photoshop" width="70" src="./assets/photoshop.svg"></a>
 </p>
-<br><br>
+<br>
 
 ## **Connect With me**
 
@@ -32,14 +31,13 @@
 
 ## **Github Stats**
 
-![Metrics Card](./github-metrics.svg)
-
-
 <p> 
 <p style="display: flex; justify-content:space-between; align-items:center;">
 <img height="250cm" src="https://github-readme-stats.vercel.app/api?username=techtuner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 <img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtuner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" /></p>
 <br>
 </p>
+<p style="display:flex;width:100%;align-item:center; justify-content:center">
+<img src="./github-metrics.svg">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techtuner&theme=tokyonight">
+</p>
